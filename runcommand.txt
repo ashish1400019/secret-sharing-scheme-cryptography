@@ -1,0 +1,13 @@
+               
+
+               <--- share generation command --->
+
+python visual_crypto.py -vvv --message message.png --secret secret.png
+
+
+
+
+	       <---- stacking of share command ---->
+
+
+python show.py ciphered.png secret.png
